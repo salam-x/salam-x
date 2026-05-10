@@ -81,10 +81,4 @@ I enjoy solving technical problems, learning emerging technologies, and creating
 - Critical Thinking
 - Continuous Learning
 
----
 
-## Connect With Me
-
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: Add your LinkedIn here
-- Behance: Add your Behance here
